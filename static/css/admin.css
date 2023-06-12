@@ -1,0 +1,43 @@
+#header{
+    background:#5A020Cce;
+    color:#fff;
+}
+
+#head{
+    color: bisque !important;
+}
+
+.module h2, 
+.module caption, 
+.inline-group h2 {
+    background:#850212ce;
+    color:#fff;
+
+}
+div.breadcrumbs{
+    background:#850212ce;
+    color:#fff;
+}
+
+.selector-chosen h2 ,.selector .selector-available h2{
+    background:#850212ce !important;
+}
+
+.button,
+ input[type=submit], 
+ input[type=button], 
+ .submit-row input, 
+ a.button
+ {
+    background:#850212ce !important;
+ }
+
+ .button:hover,
+ input[type=submit]:hover, 
+ input[type=button]:hover, 
+ .submit-row input:hover, 
+ a.button:hover
+ {
+    background:#d12a3ece !important;
+    color: #fff;
+ }
